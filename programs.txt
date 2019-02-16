@@ -1,0 +1,8 @@
+Programs to install
+Notepad++
+Microsoft office
+OpenOffice (for now)
+Python 2.7 and 3
+Android studio
+pycharm
+git
